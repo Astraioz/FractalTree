@@ -1,9 +1,9 @@
-package fractal;
+package main;
 
 public class SettingsTree {
 
     public static int BRANCH_MIN = 2;
-    public static int BRANCH_MAX = 3;
+    public static int BRANCH_MAX = 4;
     public static double LENGTH_RATIO_MIN = .6;
     public static double LENGTH_RATIO_MAX = .8;
     public static double STROKE_RATIO_MIN = 0.4;

@@ -1,9 +1,9 @@
-package fractal;
+package main;
 
 import java.awt.Graphics;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
-import static fractal.Settings.*;
+import static main.Settings.*;
 
 public class Fractal extends JPanel {
     

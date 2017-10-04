@@ -1,7 +1,7 @@
-package fractal;
+package main;
 
-import static fractal.Settings.*;
-import static fractal.SettingsTree.*;
+import static main.Settings.*;
+import static main.SettingsTree.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 

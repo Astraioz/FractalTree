@@ -1,5 +1,5 @@
 
-package fractal;
+package main;
 
 public class Main {
     

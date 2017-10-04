@@ -1,7 +1,7 @@
-package fractal;
+package main;
 
-import static fractal.Settings.*;
-import static fractal.SettingsTree.*;
+import static main.Settings.*;
+import static main.SettingsTree.*;
 import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Graphics;

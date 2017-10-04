@@ -1,6 +1,9 @@
-nbproject/private/
+*.iml
 build/
+out/
 nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+.idea/
+*.DS_Store
